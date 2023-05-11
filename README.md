@@ -1,1 +1,1 @@
-# S30ARGB_ControlGUI
+# S30ARGB_ControlPanel
